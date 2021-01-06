@@ -1,2 +1,2 @@
 # Patatap-Clone
-A simple clone of patatap.com 
+This is a simple clone of patatap.com
